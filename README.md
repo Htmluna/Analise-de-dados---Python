@@ -83,7 +83,7 @@ Os dados estão contidos em dois arquivos CSV:
    jupyter notebook inicial.ipynb
 
 
-5.Siga as etapas no notebook para reproduzir a análise.
+5.Siga as etapas no notebook para reproduzir a análise...
 
 # Conclusão
 
